@@ -64,7 +64,7 @@ module.exports = (app, db) => {
             }
 
             let userArr=[];
-            let userDb = db.get('acounts').value();
+            let userDb = await db.get('acounts').value();
             userDb.forEach(element=>{
                 userArr.push(element.username);
                 userArr.push(element.Email);
