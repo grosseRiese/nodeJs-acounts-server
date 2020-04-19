@@ -1,0 +1,26 @@
+{
+  "name": "nodejs--create-an-account-and-log-in",
+  "version": "1.0.0",
+  "description": "Create acount and login endpoints...",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "nodeman": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "watchapp": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "It's me O M R A N ,suckers!",
+  "license": "ISC",
+  "nodemonConfig":{
+    "delay":2000
+  }
+}

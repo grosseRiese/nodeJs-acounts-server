@@ -1,0 +1,19 @@
+{
+  "acounts": [
+    {
+      "username": "snowShoes",
+      "password": "123abc",
+      "Email": "badwitch@gmail.uk"
+    },
+    {
+      "username": "adam",
+      "password": "xx2e",
+      "Email": "adam@live.com"
+    },
+    {
+      "username": "Sara",
+      "password": "xx7km",
+      "Email": "zarason@mail.se"
+    }
+  ]
+}
